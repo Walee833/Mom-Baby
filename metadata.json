@@ -1,0 +1,6 @@
+{
+  "name": "Mom & Baby",
+  "description": "A modern pregnancy and motherhood companion app to track fetal development, appointments, vaccinations, baby growth, and maternal health.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
